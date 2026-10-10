@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "book-001",
+    "title": "The Power of Habit",
+    "originalTitle": "The Power of Habits",
+    "author": "Charles Duhigg",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16015154W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9078085-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-002",
+    "title": "Homo Deus",
+    "originalTitle": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17641518W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12722980-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-003",
+    "title": "Effortless",
+    "originalTitle": "Effortless",
+    "author": "Greg McKeown",
+    "years": [
+      2023,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL24230087W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10699081-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-004",
+    "title": "How to Break Up with Your Phone",
+    "originalTitle": "How to break up with your phone",
+    "author": "Catherine Price",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19741998W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9269461-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-005",
+    "title": "Ikigai",
+    "originalTitle": "Ikigai",
+    "author": "Héctor García, Francesc Miralles",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19714233W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/11300391-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": null
+  },
+  {
+    "id": "book-006",
+    "title": "Unlimited Memory",
+    "originalTitle": "Unlimited Memory",
+    "author": "Kevin Horsley",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20804007W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10102079-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-007",
+    "title": "A Promised Land",
+    "originalTitle": "Promised Land",
+    "author": "Barack Obama",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL22235242W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10449357-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": null
+  },
+  {
+    "id": "book-008",
+    "title": "Zero to One",
+    "originalTitle": "Zero to One",
+    "author": "Peter A. Thiel, Blake Masters",
+    "years": [
+      2023,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17078706W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9002334-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-009",
+    "title": "Rework",
+    "originalTitle": "Rework",
+    "author": "Jason Fried, David Heinemeier Hansson",
+    "years": [
+      2023,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL15168112W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6679955-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-010",
+    "title": "This House Has Fallen",
+    "originalTitle": "This house has fallen",
+    "author": "Karl Maier",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL2504298W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/940061-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-011",
+    "title": "The Prince",
+    "originalTitle": "The prince",
+    "author": "Niccolò Machiavelli",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/books/OL58076670M",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14850533-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": null
+  },
+  {
+    "id": "book-012",
+    "title": "12 Rules for Life",
+    "originalTitle": "12 rules for life",
+    "author": "Jordan B. Peterson",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17837119W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8131760-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-013",
+    "title": "The 7 Habits of Highly Effective People",
+    "originalTitle": "The 7 habits of highly effective people",
+    "author": "Stephen R. Covey",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL2629977W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10079937-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-014",
+    "title": "Digital Fortress",
+    "originalTitle": "Digital Fortress",
+    "author": "Dan Brown",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL76836W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8396115-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-015",
+    "title": "The Da Vinci Code",
+    "originalTitle": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL76837W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9255229-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-016",
+    "title": "The Total Money Makeover",
+    "originalTitle": "Total money makeover",
+    "author": "Dave Ramsey",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16027047W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6873839-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-017",
+    "title": "The Lean Startup",
+    "originalTitle": "The Lean Start-up",
+    "author": "Eric Ries",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16086010W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7104760-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-018",
+    "title": "Arewa ina mafita",
+    "originalTitle": "Arewa ina mafita",
+    "author": "",
+    "years": [
+      2022
+    ],
+    "coverSource": "",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Searched exact title, Hausa book variants, and Open Library; results were unrelated articles. No reliable book identity, author, or cover found.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "low",
+    "searchQuery": "\"Arewa ina mafita\" book"
+  },
+  {
+    "id": "book-019",
+    "title": "Mallam Aminu Kano",
+    "originalTitle": "Mallam Aminu Kano",
+    "author": "",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://search.worldcat.org/oclc/52814955",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Ambiguous shortened title without author. Catalogs list multiple biographies and collections about Aminu Kano; none can be confidently selected. No cover used.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "low",
+    "searchQuery": "\"Mallam Aminu Kano\" book cover"
+  },
+  {
+    "id": "book-020",
+    "title": "The Kano Chronicle",
+    "originalTitle": "The Kano Chronicle",
+    "author": "Anonymous; translated by H. R. Palmer",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://zenodo.org/record/2415833",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Verified the 1908 English translation, but the user’s exact edition is unknown and no authentic standalone cover was found.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "low",
+    "searchQuery": "\"The Kano Chronicle\" book"
+  },
+  {
+    "id": "book-021",
+    "title": "Lofty Virtues of Ibn Taymiyyah",
+    "originalTitle": "Lofty Virtues of Ibn Taymiyyah",
+    "author": "Omer Bin Ali Al-Bazzar",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openmaktaba.com/the-lofty-virtues-of-ibn-taymiyyah/",
+    "coverImageUrl": "https://openmaktaba.com/wp-content/uploads/2022/04/THE_LOFTY_VIRTUES_OF_IBN_TAYMIYYAH_266x399.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "Lofty Virtues of Ibn Taymiyyah  book cover"
+  },
+  {
+    "id": "book-022",
+    "title": "The Modernist Menace to Islam",
+    "originalTitle": "The Modernist Menace to Islam",
+    "author": "Daniel Haqiqatjou",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://www.darussalam.us/products/the-modernist-menace-to-islam",
+    "coverImageUrl": "http://www.darussalam.us/cdn/shop/files/the-modernist-menace-to-islam-5000796.webp?v=1759266975",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "The Modernist Menace to Islam  book cover"
+  },
+  {
+    "id": "book-023",
+    "title": "Hyperfocus",
+    "originalTitle": "Hyperfocus",
+    "author": "Chris Bailey",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20743870W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10239359-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-024",
+    "title": "Your Brain on Porn",
+    "originalTitle": "Your Brain on Porn",
+    "author": "Gary Wilson",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20027935W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12446752-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-025",
+    "title": "Inferno",
+    "originalTitle": "Inferno",
+    "author": "Dan Brown",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16804289W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9322673-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": null
+  },
+  {
+    "id": "book-026",
+    "title": "Meditations",
+    "originalTitle": "Meditations",
+    "author": "Marcus Aurelius",
+    "years": [
+      2024,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/books/OL9863622M",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/211529-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-027",
+    "title": "Ego Is the Enemy",
+    "originalTitle": "Ego is the enemy",
+    "author": "Ryan Holiday",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20033244W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12447129-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-028",
+    "title": "Origin",
+    "originalTitle": "Origin",
+    "author": "Dan Brown",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17878702W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/11013590-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": null
+  },
+  {
+    "id": "book-029",
+    "title": "SuperLife",
+    "originalTitle": "Superlife",
+    "author": "Darin Olien",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19994503W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10343030-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-030",
+    "title": "Cashflow Quadrant",
+    "originalTitle": "Cashflow Quadrant",
+    "author": "Robert T. Kiyosaki, Sharon L. Lechter",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL15090503W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/288183-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-031",
+    "title": "Can't Hurt Me",
+    "originalTitle": "Can't hurt me",
+    "author": "David Goggins",
+    "years": [
+      2025,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL18108064W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8305903-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-032",
+    "title": "The Psychology of Money",
+    "originalTitle": "Psychology of Money",
+    "author": "Morgan Housel",
+    "years": [
+      2023,
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL21640039W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10389354-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md",
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-033",
+    "title": "The Power of Now",
+    "originalTitle": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL5727686W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/551262-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-034",
+    "title": "Shoe Dog",
+    "originalTitle": "Shoe Dog",
+    "author": "Phil Knight",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/books/OL34011401M",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12288384-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-035",
+    "title": "Eat, Pray, Love",
+    "originalTitle": "Eat pray love",
+    "author": "Elizabeth Gilbert",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL41815W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/111433-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-036",
+    "title": "The Lost Symbol",
+    "originalTitle": "The lost symbol",
+    "author": "Dan Brown",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL14873315W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8373389-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-037",
+    "title": "The Art of Happiness",
+    "originalTitle": "The art of happiness",
+    "author": "Dalai Lama, Howard C. Cutler",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://openlibrary.org/works/OL318761W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6671211-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-038",
+    "title": "حراسة الفضيلة",
+    "originalTitle": "حراسة الفضيلة",
+    "author": "بكر بن عبد الله أبو زيد",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://rushd.sa/ar-us/products/حراسة-الفضيلة-غلاف-ابيض",
+    "coverImageUrl": "https://media.zid.store/c3c80b9f-f176-496c-9f27-04187e1270f9/6fcaf23b-88b1-4931-92b4-ad1dabfe9d74.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "حراسة الفضيلة  book cover"
+  },
+  {
+    "id": "book-039",
+    "title": "تسهيل معرفة الأسانيد",
+    "originalTitle": "تسهيل معرفة الأسانيد",
+    "author": "أحمد بن يوسف السيد",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://manarfikir.com/product/تسهيل-معرفة-الأسانيد/",
+    "coverImageUrl": "https://manarfikir.com/wp-content/uploads/2024/12/تسهيل-معرفة-الأسانيد.webp",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "تسهيل معرفة الأسانيد  book cover"
+  },
+  {
+    "id": "book-040",
+    "title": "الغناء في الميزان",
+    "originalTitle": "الغناء في الميزان",
+    "author": "عبد العزيز الطريفي",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://arabicpdfs.com/الغناء-في-الميزان-عبدالعزيز-الطريفي-pdf/",
+    "coverImageUrl": "https://drive.google.com/uc?export=view&id=1TMSGJ_cHvqPmwWMlzVCrlUBUif4PBtqc",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الغناء في الميزان  book cover"
+  },
+  {
+    "id": "book-041",
+    "title": "مجالس التفسير في رمضان",
+    "originalTitle": "مجالس التفسير في رمضان",
+    "author": "",
+    "years": [
+      2022
+    ],
+    "coverSource": "",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Further exact and shortened searches did not identify the supplied title; could be a local publication or lecture series. Author needed.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"مجالس التفسير في رمضان\""
+  },
+  {
+    "id": "book-042",
+    "title": "موطا مالك",
+    "originalTitle": "موطا مالك",
+    "author": "مالك بن أنس",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://alameenbookstore.com/index.php?product_id=3703&route=product%2Fproduct",
+    "coverImageUrl": "https://alameenbookstore.com/image/cache/catalog/الموطأ%20دار%20التأصيل-900x1200w.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"موطأ الإمام مالك\" غلاف"
+  },
+  {
+    "id": "book-043",
+    "title": "الكافي في شرح الآجرومية",
+    "originalTitle": "الكافي في شرح الآجرومية",
+    "author": "أيمن أمين عبد الغني",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://quran-uni.com/quran-sciences/الكافي-في-شرح-الآجرومية/",
+    "coverImageUrl": "https://i0.wp.com/quran-uni.com/wp-content/uploads/2022/03/الكافي-في-شرح-الآجرومية.jpg?fit=289%2C417&ssl=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الكافي في شرح الآجرومية  book cover"
+  },
+  {
+    "id": "book-044",
+    "title": "الأربعين في وصف الحور العين",
+    "originalTitle": "الأربعين في وصف الحور العين",
+    "author": "نادر بن نمر وادي",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://www.moswarat.com/books_view_3605.html",
+    "coverImageUrl": "https://archive.org/services/img/wady7",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الأربعين في وصف الحور العين  book cover"
+  },
+  {
+    "id": "book-045",
+    "title": "التصفية و التربية",
+    "originalTitle": "التصفية و التربية",
+    "author": "",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://islamhouse.com/ar/books/344363",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Unresolved author: works with this short title are attributed to al-Albani, Muhammad Said Raslan, Shauqi Binasi, and Ali Hasan al-Halabi; no cover chosen.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"التصفية والتربية\" كتاب"
+  },
+  {
+    "id": "book-046",
+    "title": "الخطة الدقيقة لحفظ صفحة من القرآن",
+    "originalTitle": "الخطة الدقيقة لحفظ صفحة من القرآن",
+    "author": "سعيد أبو العلا حمزة",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://quranpedia.net/book/27473",
+    "coverImageUrl": "https://wikiquran.nyc3.digitaloceanspaces.com/attachments/documents/BOOK_27473_1.pdf",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الخطة الدقيقة لحفظ صفحة من القرآن  book cover"
+  },
+  {
+    "id": "book-047",
+    "title": "منهجية حفظ القرآن",
+    "originalTitle": "منهجية حفظ القرآن",
+    "author": "",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://quranpedia.net/book/20708",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "A possible near-title is نحو منهجية عملية في حفظ القرآن, but the supplied short title and absent author do not establish identity.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"منهجية حفظ القرآن\" كتاب"
+  },
+  {
+    "id": "book-048",
+    "title": "خطوات التميز في حفظ القرآن الكريم",
+    "originalTitle": "حطوات التميز في حفظ القرآن",
+    "author": "جمال بن إبراهيم القرش",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://www.lisanarb.com/2026/09/pdf_01444826523.html",
+    "coverImageUrl": "https://archive.org/download/lis_qu20/lisanarb.com_qu2007.pdf#page=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"خطوات التميز في حفظ القرآن\""
+  },
+  {
+    "id": "book-049",
+    "title": "تحريم الات الطرب",
+    "originalTitle": "تحريم الات الطرب",
+    "author": "محمد ناصر الدين الألباني",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://nasihaa.com/product/thrym-aalat-altrb-ao-alrd-balohyyn-oakoal-aemtna-ghlaf",
+    "coverImageUrl": "https://nasihaa.com/uploads/img/1679130164_2022-02-10-620536ed72f27.png",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "تحريم الات الطرب  book cover"
+  },
+  {
+    "id": "book-050",
+    "title": "الذكر الخالد فيما أخذت من الوالد",
+    "originalTitle": "الذكر الخالد فيما أخذت من الوالد",
+    "author": "عبد الرحمن عمر بغاراوا",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://elbagarawy.blogspot.com/2022/11/blog-post_89.html",
+    "coverImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfI2crblFdpnpNGqNZx7fcCwzoLPataLRZ5SjohSff9dHlG9pIIpF85dxkSSULgKKJHehfTsDvxYBHhuuuc9dhpWBj5PRrZdJbvLwi-seqSxQGjkR5g19Nf3VmjPVI_FfkOL1SjzmPxVWBFjgOXos2ZUHQYyyE_e78Fq67fuACWKweZBUughnyQ0ODRA/s4000/%D8%A7%D9%84%D8%B0%D9%83%D8%B1%20%D8%A7%D9%84%D8%AE%D8%A7%D9%84%D8%AF.png",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"الذكر الخالد فيما أخذت من الوالد\""
+  },
+  {
+    "id": "book-051",
+    "title": "التعالم وأثره على العلم و الكتاب",
+    "originalTitle": "التعالم وأثره على العلم و الكتاب",
+    "author": "بكر بن عبد الله أبو زيد",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://islamhouse.com/ar/books/2808060/",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Verified title is التعالم وأثره على الفكر والكتاب, by بكر أبو زيد. Original supplied title retained. The official PDF download timed out; retailer recommended-image mismatch was rejected.",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"التعالم\" \"بكر أبو زيد\""
+  },
+  {
+    "id": "book-052",
+    "title": "أسرار حفظ القرآن",
+    "originalTitle": "أسرار حفظ القرآن",
+    "author": "أحمد بن سالم بادويلان",
+    "years": [
+      2022
+    ],
+    "coverSource": "https://quranpedia.net/book/23472",
+    "coverImageUrl": "https://wikiquran.nyc3.digitaloceanspaces.com/attachments/documents/BOOK_23472_1.pdf",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2022.md"
+    ],
+    "confidence": "medium",
+    "searchQuery": "أسرار حفظ القرآن  book cover"
+  },
+  {
+    "id": "book-053",
+    "title": "Think Straight",
+    "originalTitle": "Think Straight",
+    "author": "Darius Foroux",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL21313227W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10359785-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-054",
+    "title": "From Cradle to Grave",
+    "originalTitle": "From Cradle to Grave",
+    "author": "Wakeel Salis Yakub",
+    "years": [
+      2023
+    ],
+    "coverSource": "",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Searched title with Wakeel Salis Yakub and name variants; no reliable matching catalog or cover found. Supplied author retained; unrelated same-title books rejected.",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "low",
+    "searchQuery": "\"From Cradle to Grave\" \"Wakeel\""
+  },
+  {
+    "id": "book-055",
+    "title": "Essentialism",
+    "originalTitle": "Essentialism",
+    "author": "Greg McKeown",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17043626W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7285986-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-056",
+    "title": "Wane ne Bahaushe",
+    "originalTitle": "Wane ne Bahaushe",
+    "author": "Aliyu M. Ahmad",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://aliyumahmad.blogspot.com/2022/09/wane-ne-bahaushe.html",
+    "coverImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSvuUgoQfgxxRqE9y0r2ESy1FRGVb8V3nLjYzhOMuTiTJmGMcjPExp354ap7EJcOXesZzdiF1eCAPbZtVWVUwIvltymteK9R9ytJ8TgsSrTHvANCvTztvnLWQuouFgmm9ogXfqJE7_nrytoMhcW7-HzGFlLUAXPkOw40rZKABoYD1yl5p9n6cqH3zqvQ/s320/305145241_1696427894090776_6365439892842571931_n.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"Wane ne Bahaushe\" \"Aliyu\""
+  },
+  {
+    "id": "book-057",
+    "title": "The Four Agreements",
+    "originalTitle": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL27203W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/924521-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-058",
+    "title": "How to Take Smart Notes",
+    "originalTitle": "How to take smart notes",
+    "author": "Sönke Ahrens",
+    "years": [
+      2024,
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL18635700W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8362230-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md",
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-059",
+    "title": "Think Like a Monk",
+    "originalTitle": "Think like a Monk",
+    "author": "Jay Shetty",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL21237606W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10355397-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-060",
+    "title": "The Moving Finger",
+    "originalTitle": "The moving finger",
+    "author": "Agatha Christie",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL471905W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/13672855-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-061",
+    "title": "The Minotaur Takes a Cigarette Break",
+    "originalTitle": "The Minotaur",
+    "author": "Steven Sherrill",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL53423W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/694935-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-062",
+    "title": "The Prophet",
+    "originalTitle": "The Prophet",
+    "author": "Kahlil Gibran",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL318900W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/418324-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-063",
+    "title": "Nearly All the Men in Lagos Are Mad",
+    "originalTitle": "Nearly all men in lagos are mad",
+    "author": "Damilare Kuku",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL28351716W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/15164626-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-064",
+    "title": "Never Split the Difference",
+    "originalTitle": "Never split the difference",
+    "author": "Chris Voss, Tahl Raz",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL18819818W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8365942-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-065",
+    "title": "The Mastery of Love",
+    "originalTitle": "Mastery of love",
+    "author": "Don Miguel Ruiz",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL27202W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6737433-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-066",
+    "title": "The Compound Effect",
+    "originalTitle": "The compound effect",
+    "author": "Darren Hardy",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16118274W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7115046-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-067",
+    "title": "The Way of the Superior Man",
+    "originalTitle": "The way of the superior man",
+    "author": "David Deida",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/books/OL8857125M",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/865022-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-068",
+    "title": "Declutter Your Mind",
+    "originalTitle": "Declutter your mind",
+    "author": "S. J. Scott, Barrie Davenport",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17807407W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8093719-L.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-069",
+    "title": "Man's Search for Meaning",
+    "originalTitle": "Man's search for meaning",
+    "author": "Viktor E. Frankl",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/books/OL7944580M",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14860515-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-070",
+    "title": "A Little History of Economics",
+    "originalTitle": "A little history of economics",
+    "author": "Niall Kishtainy",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19665429W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10455766-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-071",
+    "title": "Mindset",
+    "originalTitle": "Mindset",
+    "author": "Carol S. Dweck",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL2003465W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/746414-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-072",
+    "title": "The Little Book That Builds Wealth",
+    "originalTitle": "The Little Book that Builds Wealth",
+    "author": "Pat Dorsey",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL5817115W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/2424408-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-073",
+    "title": "Abubakar Imam Memoirs",
+    "originalTitle": "Abubakar Imam Memoirs",
+    "author": "Abubakar Imam; edited by Abdurrahman Mora",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://abubakarimam.com/details.006.html",
+    "coverImageUrl": "http://www.abubakarimam.com/images/memoirs001.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "Abubakar Imam Memoirs Abdurrahman Mora book cover"
+  },
+  {
+    "id": "book-074",
+    "title": "Boko Haram: The History of an African Jihadist Movement",
+    "originalTitle": "Boko Haram, The History of an African Jihadists",
+    "author": "Alexander Thurston",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://ccas.georgetown.edu/news/princeton-university-press-publishes-book-by-maas-alum/",
+    "coverImageUrl": "https://ccas.georgetown.edu/wp-content/uploads/sites/681/2018/02/9780691172248_1-194x300.png",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-075",
+    "title": "The Chief Arbiter: Wazir Junaidu and His Intellectual Contribution",
+    "originalTitle": "The Chief Arbiter: Waziri Junaidu and his intellectual contribution",
+    "author": "Hamidu Alkali",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/books/OL19188068M",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Both catalog cover images were visually checked and are scans of the title page, not the outer cover. No cover used.",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"The Chief Arbiter\" \"Junaidu\""
+  },
+  {
+    "id": "book-076",
+    "title": "Everything Is F*cked: A Book About Hope",
+    "originalTitle": "Everything is fucked",
+    "author": "Mark Manson",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20657486W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/9351865-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-077",
+    "title": "The Obstacle Is the Way",
+    "originalTitle": "The obstacle is the way",
+    "author": "Ryan Holiday",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19977665W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14428233-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-078",
+    "title": "The Everything Store",
+    "originalTitle": "The Everything Store",
+    "author": "Brad Stone",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16808249W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7264584-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-079",
+    "title": "The Almanack of Naval Ravikant",
+    "originalTitle": "The Almanac of Naval Ravikant",
+    "author": "Eric Jorgenson",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL22255847W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10449931-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-080",
+    "title": "Quiet",
+    "originalTitle": "Quiet",
+    "author": "Susan Cain",
+    "years": [
+      2025,
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16484595W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7079753-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md",
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-081",
+    "title": "Grit",
+    "originalTitle": "Grit",
+    "author": "Angela Duckworth",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17361140W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7438753-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-082",
+    "title": "The Music made me do it",
+    "originalTitle": "The Music made me do it",
+    "author": "Gohar Mushtaq",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://superbooks.com.pk/product/the-music-made-me-do-it-by-gohar-mushtaq/",
+    "coverImageUrl": "https://superbooks.com.pk/wp-content/uploads/2025/02/IMG-20231226-WA0015.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "The Music made me do it Gohar Mushtaq book cover"
+  },
+  {
+    "id": "book-083",
+    "title": "Siddhartha",
+    "originalTitle": "Siddartha",
+    "author": "Hermann Hesse",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL872932W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6562535-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-084",
+    "title": "The Divine Reality",
+    "originalTitle": "The Divine Reality",
+    "author": "Hamza Andreas Tzortzis",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://dawahbooks.com.pk/products/the-divine-reality-god-islam-the-mirage-of-atheism",
+    "coverImageUrl": "http://cdn.shopify.com/s/files/1/0706/5773/6920/files/The_Divine_Reality_God_Islam_amp_The_Mirage_of_Atheism.jpg?v=1751177711",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "The Divine Reality Hamza Tzotzis book cover"
+  },
+  {
+    "id": "book-085",
+    "title": "The Productive Muslim",
+    "originalTitle": "The Productive Muslim",
+    "author": "Mohammed Faris",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://shop.productivemuslim.com/products/the-productive-muslim-book-where-faith-meets-productivity",
+    "coverImageUrl": "http://shop.productivemuslim.com/cdn/shop/files/paperback.png?v=1770895895",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "The Productive Muslim Muhammad Faris book cover"
+  },
+  {
+    "id": "book-086",
+    "title": "No Filter",
+    "originalTitle": "No Filter",
+    "author": "Sarah Frier",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL21360836W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10701710-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-087",
+    "title": "Bad Samaritans",
+    "originalTitle": "Bad Samaritans",
+    "author": "Ha-Joon Chang",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL3917938W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/1998234-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-088",
+    "title": "As a Man Thinketh",
+    "originalTitle": "As a Man Thinketh",
+    "author": "James Allen",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17728089W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8005782-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-089",
+    "title": "The $100 Startup",
+    "originalTitle": "The $100 Start up",
+    "author": "Chris Guillebeau",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://openlibrary.org/works/OL16499348W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7257004-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-090",
+    "title": "الأذكار و الآداب",
+    "originalTitle": "الأذكار و الآداب",
+    "author": "عبد المحسن بن محمد القاسم",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://a-alqasim.com/books/0101athkaar/",
+    "coverImageUrl": "https://a-alqasim.com/wp-content/uploads/2016/06/14460330-الأول-الأذكار-FB.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الأذكار و الآداب  book cover"
+  },
+  {
+    "id": "book-091",
+    "title": "التبيان في آداب حملة القرآن للنووي",
+    "originalTitle": "التبيان في آداب حملة القرآن للنووي",
+    "author": "يحيى بن شرف النووي",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb80383-40845&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/hard/80/80383.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "التبيان في آداب حملة القرآن للنووي  book cover"
+  },
+  {
+    "id": "book-092",
+    "title": "الكبائر للذهبي",
+    "originalTitle": "الكبائر للذهبي",
+    "author": "شمس الدين الذهبي",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb158075-119846&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/carton/158/158075.gif",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الكبائر للذهبي  book cover"
+  },
+  {
+    "id": "book-093",
+    "title": "العلماء العزاب لعبد الفتاح أبو غدة",
+    "originalTitle": "العلماء العزاب لعبد الفتاح أبو غدة",
+    "author": "عبد الفتاح أبو غدة",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb207257-179492&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/carton/207/207257.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "العلماء العزاب لعبد الفتاح أبو غدة  book cover"
+  },
+  {
+    "id": "book-094",
+    "title": "آداب الزفاف للألباني",
+    "originalTitle": "آداب الزفاف للألباني",
+    "author": "محمد ناصر الدين الألباني",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb84232-44625&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/normal/84/84232.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "آداب الزفاف للألباني  book cover"
+  },
+  {
+    "id": "book-095",
+    "title": "جلباب مرأة المسلمة للألباني",
+    "originalTitle": "جلباب مرأة المسلمة للألباني",
+    "author": "محمد ناصر الدين الألباني",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb84086-44480&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/hard/84/84086.gif",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "جلباب مرأة المسلمة للألباني  book cover"
+  },
+  {
+    "id": "book-096",
+    "title": "الرد المفهم للألباني",
+    "originalTitle": "الرد المفهم للألباني",
+    "author": "محمد ناصر الدين الألباني",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://www.kutubypdf.com/book22498/",
+    "coverImageUrl": "https://www.kutubypdf.com/wp-content/uploads/2019/12/kutub-pdf.net_LGYWc.jpg.pagespeed.ce_.XqMxJZVomn.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الرد المفهم للألباني  book cover"
+  },
+  {
+    "id": "book-097",
+    "title": "اليواقيت الثمينة في صفات السمينة للسيوطي",
+    "originalTitle": "اليواقيت الثمينة في صفات السمينة للسيوطي",
+    "author": "جلال الدين السيوطي",
+    "years": [
+      2023
+    ],
+    "coverSource": "https://librairiealfia.com/index.php?product_id=419039&route=product%2Fproduct",
+    "coverImageUrl": "https://librairiealfia.com/image/cache/catalog/product/9789938230062-334x500.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2023.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "اليواقيت الثمينة في صفات السمينة للسيوطي  book cover"
+  },
+  {
+    "id": "book-098",
+    "title": "The Little Book of Morning Routines",
+    "originalTitle": "The Little Book of Morning Routines",
+    "author": "Krystian Szastok",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://purpleimp.com/the-little-book-of-morning-routines/",
+    "coverImageUrl": "https://purpleimp.com/wp-content/uploads/2020/04/The-Little-Book-of-Morning-Routines.pdf#page=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-099",
+    "title": "Stepping on Toes: My Odyssey at the Nigerian Ports Authority",
+    "originalTitle": "Stepping on Toes: My Odyssey at the Nigerian Ports Authority",
+    "author": "Hadiza Bala Usman",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.ddhmag.com/stepping-on-toes-intels-channel-management-contracts-dominate-bala-usmans-npa-problems-in-new-book/",
+    "coverImageUrl": "https://www.ddhmag.com/wp-content/uploads/2023/04/stepping-on-toes-bala-usman.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-100",
+    "title": "Skills Rather than Just Degrees",
+    "originalTitle": "Skills Rather than Just Degrees",
+    "author": "Isa Ali Ibrahim Pantami",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.goodreads.com/en/book/show/179940543-skills-rather-than-just-degrees",
+    "coverImageUrl": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687384673i/179940543.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"Skills Rather than Just Degrees\" Pantami"
+  },
+  {
+    "id": "book-101",
+    "title": "Adam: Between Evolution, Theistic Evolution and Revelation",
+    "originalTitle": "Adam: Between Evolution, Theistic Evolution and Revelation",
+    "author": "Ibrahim Elshahat",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://onlineislamicbook.com/products/adam-between-evolution-theistic-evolution-revelation-by-ibrahim-elshahat",
+    "coverImageUrl": "http://cdn.shopify.com/s/files/1/0901/9457/5639/files/AdamBetweenEvolution_14188_1.jpg?v=1762230069&width=1024",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "Adam: Between Evolution, Theistic Evolution and Revelation  book cover"
+  },
+  {
+    "id": "book-102",
+    "title": "Guns, Germs, and Steel",
+    "originalTitle": "Guns, Germs and Steel",
+    "author": "Jared Diamond",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL276558W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7884018-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-103",
+    "title": "On Writing Well",
+    "originalTitle": "On Writing Well",
+    "author": "William Zinsser",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL2742235W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/20450-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-104",
+    "title": "Difficult Conversations",
+    "originalTitle": "Difficult Conversations",
+    "author": "Douglas Stone, Bruce Patton, Sheila Heen",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL13513526W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/2555094-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-105",
+    "title": "Finish What You Start",
+    "originalTitle": "Finish What You Start",
+    "author": "Peter Hollins",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL24135560W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10531822-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-106",
+    "title": "The Metamorphosis",
+    "originalTitle": "Metamorphosis",
+    "author": "Franz Kafka",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL498556W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12820198-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-107",
+    "title": "Wacked",
+    "originalTitle": "Wacked",
+    "author": "",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/search?q=Wacked",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Title and author unresolved; awaiting reader clarification. No cover selected.",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": null
+  },
+  {
+    "id": "book-108",
+    "title": "Elastic Habits",
+    "originalTitle": "Elastic Habits",
+    "author": "Stephen Guise",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20797839W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10093450-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-109",
+    "title": "Why We Sleep",
+    "originalTitle": "Why We Sleep",
+    "author": "Matthew Walker",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20168133W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8814155-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-110",
+    "title": "The Fall of Constantinople",
+    "originalTitle": "Pivotal Moments in History: The Fall of Constantinople",
+    "author": "Ruth Tenzer Feldman",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL15172991W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6430573-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-111",
+    "title": "The 100: A Ranking of the Most Influential Persons in History",
+    "originalTitle": "The 100 ranking of the mos influential person in history",
+    "author": "Michael H. Hart",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL525224W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/585166-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-112",
+    "title": "A Short History of Rabeh Ibn Fadel Allah",
+    "originalTitle": "A short history of Rabeh Ibn Fadel Allah",
+    "author": "Alhaji Ibrahim Imam",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://books.google.com/books/about/A_short_history_of_Rabeh_ibn_Fadel_Allah.html?id=U5sZAAAAIAAJ",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Author and title verified; publication year is circa 1974 in WorldCat. No accessible authentic cover found.",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"short history of Rabeh\" book"
+  },
+  {
+    "id": "book-113",
+    "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "originalTitle": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "author": "Yuval Noah Harari",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL37826293W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14812834-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-114",
+    "title": "The Phone Fix",
+    "originalTitle": "The phone fix",
+    "author": "Faye Begeti",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL42498424W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14841696-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-115",
+    "title": "The Courage to Be Disliked",
+    "originalTitle": "The courage to be disliked",
+    "author": "Ichiro Kishimi, Fumitake Koga",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19744000W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10873626-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-116",
+    "title": "تسهيل الوصول إلى فهم علم الأصول",
+    "originalTitle": "تسهيل الوصول إلى فهم علم الأصول",
+    "author": "حمود بن عقلاء الشعيبي؛ عطية محمد سالم؛ عبد المحسن العباد",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://faylasof.com/islamiat/tshyl-alwswl-ala-fhm-alm-alaswl/",
+    "coverImageUrl": "https://archive.org/services/img/20200517_20200517_0704",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "تسهيل الوصول إلى فهم علم الأصول  book cover"
+  },
+  {
+    "id": "book-117",
+    "title": "التعليقات الأثرية على المنظومة البيقونية",
+    "originalTitle": "التعليقات الأثرية على منظومة البيقونية لعلي بن حسن الحلبي",
+    "author": "علي بن حسن الحلبي",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://nasihaa.com/product/altaalykat-alathry-aal-almnthom-albykony",
+    "coverImageUrl": "https://nasihaa.com/uploads/img/1679129771_QBl7E.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"التعليقات الأثرية على المنظومة البيقونية\""
+  },
+  {
+    "id": "book-118",
+    "title": "خلاصة التأصيل لعلم الجرح و التعديل للشريف حاتم العوني",
+    "originalTitle": "خلاصة التأصيل لعلم الجرح و التعديل للشريف حاتم العوني",
+    "author": "حاتم بن عارف العوني",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb419726-420462&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/normal/419/419726.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "خلاصة التأصيل لعلم الجرح و التعديل للشريف حاتم العوني  book cover"
+  },
+  {
+    "id": "book-119",
+    "title": "زغل العلم للذهبي",
+    "originalTitle": "زغل العلم للذهبي",
+    "author": "شمس الدين الذهبي",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.nasihaa.com/product/byan-zghl-alaalm",
+    "coverImageUrl": "https://www.nasihaa.com/uploads/img/1679130529_nT8H0.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "زغل العلم للذهبي  book cover"
+  },
+  {
+    "id": "book-120",
+    "title": "أوائل الشهور العربية لأحمد محمد شاكر",
+    "originalTitle": "أوائل الشهور العربية لأحمد محمد شاكر",
+    "author": "أحمد محمد شاكر",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=lbb129549-89679&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/lb/abookstore/covers/normal/129/129549.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "أوائل الشهور العربية لأحمد محمد شاكر  book cover"
+  },
+  {
+    "id": "book-121",
+    "title": "درء الحزن : دراسة علمية لما قيل عن حال أبوي النبي ص الشمراني",
+    "originalTitle": "درء الحزن : دراسة علمية لما قيل عن حال أبوي النبي ص الشمراني",
+    "author": "عبد الله الشمراني",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://www.neelwafurat.com/itempage.aspx?id=sab25115-20025190&search=books",
+    "coverImageUrl": "https://www.neelwafurat.com/images/sa/abookstore/covers/hard/25/25115.gif",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "درء الحزن : دراسة علمية لما قيل عن حال أبوي النبي ص الشمراني  book cover"
+  },
+  {
+    "id": "book-122",
+    "title": "الكتب الستة و أشهر شروحها و حواشيها لعبد العزيز بن عبد الله بن محمد الشايع",
+    "originalTitle": "الكتب الستة و أشهر شروحها و حواشيها لعبد العزيز بن عبد الله بن محمد الشايع",
+    "author": "عبد العزيز بن عبد الله الشايع",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://alkutub.net/en/ebooks/الكتب-الستة",
+    "coverImageUrl": "https://alkutub.net/en/ebooks/الكتب-الستة/download/4e7a4535",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "الكتب الستة و أشهر شروحها و حواشيها لعبد العزيز بن عبد الله بن محمد الشايع  book cover"
+  },
+  {
+    "id": "book-123",
+    "title": "عقيدة الإمام مالك لسعود الدعجان",
+    "originalTitle": "عقيدة الإمام مالك لسعود الدعجان",
+    "author": "سعود بن عبد العزيز الدعجان",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://faylasof.com/islamiat/aqydh-alamam-malk-sawd-aldajan/",
+    "coverImageUrl": "https://archive.org/services/img/aboutaqyddine_gmail_201605",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "عقيدة الإمام مالك لسعود الدعجان  book cover"
+  },
+  {
+    "id": "book-124",
+    "title": "المنتقى من الجامع لأخلاق الراوي وآداب السامع",
+    "originalTitle": "المنتقى من الجامع لأخلاق الراوي و آداب السامع لأحمد بن أبيك الدمياطي",
+    "author": "أحمد بن أيبك بن عبد الله الحسامي الدمياطي",
+    "years": [
+      2024
+    ],
+    "coverSource": "https://saaid.org/book/22/19137.pdf",
+    "coverImageUrl": "https://saaid.org/book/22/19137.pdf#page=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books read in 2024.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"المنتقى من الجامع لأخلاق الراوي\" الدمياطي"
+  },
+  {
+    "id": "book-125",
+    "title": "The Adventures of Sherlock Holmes",
+    "originalTitle": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL262421W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/6717853-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-126",
+    "title": "Infakul Maisuri",
+    "originalTitle": "Infakul Maisuri fassarar Sayuɗi Muhammad da Jean Boyd",
+    "author": "Muhammadu Bello",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://ci.nii.ac.jp/ncid/BA73691802",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Exact Hausa translation confirmed by both translators and catalog language; no cover found. Year refers to this Hausa translation, not the original Arabic work.",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"Infakul Maisuri\" book"
+  },
+  {
+    "id": "book-127",
+    "title": "How to Read a Book",
+    "originalTitle": "How to Read a Book",
+    "author": "Mortimer J. Adler, Charles Van Doren",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL487444W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/405381-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-128",
+    "title": "Ƙaddara ta Riga Fata",
+    "originalTitle": "Ƙaddara ta Riga Fata na Prof. Mansur Sokoto",
+    "author": "Muhammad Mansur Ibrahim (Mansur Sokoto)",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://de.scribd.com/document/1077025774/Kaddara-Tariga-Fata",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Title and author confirmed in indexed book text. Public document preview redirected to sign-in; no verified cover used.",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"Kaddara ta Riga Fata\" book"
+  },
+  {
+    "id": "book-129",
+    "title": "How to Write a Lot",
+    "originalTitle": "How to Write a Lot",
+    "author": "Paul J. Silvia",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL5826958W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/1975802-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-130",
+    "title": "The Trial",
+    "originalTitle": "The Trial",
+    "author": "Franz Kafka",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.penguinrandomhouse.com/books/89257/the-trial-by-franz-kafka/",
+    "coverImageUrl": "https://images3.penguinrandomhouse.com/cover/9780805209990",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-131",
+    "title": "The Communist Manifesto",
+    "originalTitle": "The Communist Manifesto",
+    "author": "Karl Marx, Friedrich Engels",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.penguinrandomhouse.com/books/308469/the-communist-manifesto-by-karl-marx-and-friedrich-engels/",
+    "coverImageUrl": "https://images1.penguinrandomhouse.com/cover/9780143106265",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-132",
+    "title": "Tao Te Ching",
+    "originalTitle": "Tao Te Ching",
+    "author": "Lao Tzu",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL45499W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/662232-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-133",
+    "title": "Million Dollar Weekend",
+    "originalTitle": "Million Dollar Weekend",
+    "author": "Noah Kagan",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL37587791W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/14625512-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-134",
+    "title": "Tunaninka Kamanninka na Bashir Tofa",
+    "originalTitle": "Tunaninka Kamanninka na Bashir Tofa",
+    "author": "Bashir Othman Tofa",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.marymartin.com/web/viewbooks?bookId=179430",
+    "coverImageUrl": "https://www.marymartin.com/web/imageAction.action?imageId=179430_big.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "Tunaninka Kamanninka na Bashir Tofa  book cover"
+  },
+  {
+    "id": "book-135",
+    "title": "The Green Book",
+    "originalTitle": "The Green Book",
+    "author": "Muammar Gaddafi",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL20863614W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/10180206-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-136",
+    "title": "Understanding Salafism",
+    "originalTitle": "Understanding Salafism",
+    "author": "Yasir Qadhi",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://bookcorner.com/products/understanding-salafism-yasir-qadhi-9781786078483",
+    "coverImageUrl": "https://bookcorner.com/cdn/shop/files/9781786078483_1783848.jpg?v=1788794088&width=1024",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"Understanding Salafism\" \"Yasir\" book"
+  },
+  {
+    "id": "book-137",
+    "title": "The Tao of Seneca",
+    "originalTitle": "The Tao of Seneca",
+    "author": "Seneca",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://tim.blog/2017/07/06/tao-of-seneca/",
+    "coverImageUrl": "https://tim.blog/wp-content/uploads/2017/07/taoofseneca_vol1-1.pdf#page=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-138",
+    "title": "Mastery",
+    "originalTitle": "Mastery",
+    "author": "Robert Greene",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL17429337W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/7561012-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-139",
+    "title": "Programming: Principles and Practice Using C++",
+    "originalTitle": "Programming: Principles and Practice Using C++",
+    "author": "Bjarne Stroustrup",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL19547723W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/8514159-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-140",
+    "title": "Win Every Argument",
+    "originalTitle": "Win Every Argument",
+    "author": "Mehdi Hasan",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL27693727W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/12688074-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-141",
+    "title": "Crime and Punishment",
+    "originalTitle": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL32525579W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/13116014-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-142",
+    "title": "The Creature from Jekyll Island",
+    "originalTitle": "The Creature from Jekyll Island",
+    "author": "G. Edward Griffin",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://openlibrary.org/works/OL3007423W",
+    "coverImageUrl": "https://covers.openlibrary.org/b/id/703969-L.jpg?default=false",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": null
+  },
+  {
+    "id": "book-143",
+    "title": "تقي الدين ابن تيمية: سنده في الفقه الحنبلي والطريقة القادرية لشيخ عبدالجامع الحبشي",
+    "originalTitle": "تقي الدين ابن تيمية: سنده في الفقه الحنبلي والطريقة القادرية لشيخ عبدالجامع الحبشي",
+    "author": "",
+    "years": [
+      2025
+    ],
+    "coverSource": "",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "Further searches of the exact title, subtitle and separated author spelling did not establish a matching publication.",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"تقي الدين ابن تيمية\" \"عبدالجامع\""
+  },
+  {
+    "id": "book-144",
+    "title": "المغربية لشيخ عبدالعزيز الطريفي",
+    "originalTitle": "المغربية لشيخ عبدالعزيز الطريفي",
+    "author": "عبد العزيز الطريفي",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://maktabaatharia.srajarabic.com/book.php?id=4350",
+    "coverImageUrl": "https://maktabaatharia.srajarabic.com/uploads/1747251023_mshaq-t_0000.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "المغربية لشيخ عبدالعزيز الطريفي  book cover"
+  },
+  {
+    "id": "book-145",
+    "title": "مقاصد الشريعة: بدايات وتطبيقات",
+    "originalTitle": "مقاصد الشريعة لشيخ عبدالرحمن البغراوي",
+    "author": "عبد الرحمن عمر بغاراوا",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.scribd.com/document/1052630509/",
+    "coverImageUrl": "https://imgv2-2-f.scribdassets.com/img/document/1052630509/original/93c3075638/1?v=1",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "\"مقاصد الشريعة\" \"البغراوي\""
+  },
+  {
+    "id": "book-146",
+    "title": "التبيان في مس المحدث للقرآن",
+    "originalTitle": "التبيان في مس المحدث للقرآن",
+    "author": "وليد بن علي بن عبد الله المديفر",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.irsad.com.tr/ltbyn-fy-hkm-ms-lmhdth-llqran",
+    "coverImageUrl": "https://www.irsad.com.tr/ltbyn-fy-hkm-ms-lmhdth-llqran-fikih-darul-muhaddis-lin-nesr-vet-tevzi-velid-b-ali-b-abdullah-el-mudeyfer-107361-34-O.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "التبيان في مس المحدث للقرآن  book cover"
+  },
+  {
+    "id": "book-147",
+    "title": "فتيا الحموية لشيخ الإسلام ابن تيمية",
+    "originalTitle": "فتيا الحموية لشيخ الإسلام ابن تيمية",
+    "author": "ابن تيمية",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://www.menhagmuslim.com/books/lftw-lhmwy-lkbr-shykh-lslm-bn-tymy-t-d-bd-lqdr-lgmdy/",
+    "coverImageUrl": "https://menhag.b-cdn.net/media/covers/-extracted-cover_pYdSeZN.jpg",
+    "coverFound": true,
+    "issue": "",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "high",
+    "searchQuery": "فتيا الحموية لشيخ الإسلام ابن تيمية  book cover"
+  },
+  {
+    "id": "book-148",
+    "title": "قراءة عاصم",
+    "originalTitle": "قراءة عاصم",
+    "author": "",
+    "years": [
+      2025
+    ],
+    "coverSource": "https://quranpedia.net/book/15800",
+    "coverImageUrl": "",
+    "coverFound": false,
+    "issue": "This is a Quran reading tradition appearing in several book titles; no author or edition supplied, so no cover chosen.",
+    "readingLists": [
+      "Books Read in 2025.md"
+    ],
+    "confidence": "unresolved",
+    "searchQuery": "\"قراءة عاصم\" كتاب غلاف"
+  }
+]
