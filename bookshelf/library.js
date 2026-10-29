@@ -189,7 +189,5 @@
   dialog.addEventListener('cancel',event=>{event.preventDefault();closeBook();});
   dialog.addEventListener('click',event=>{if(event.target===dialog)closeBook();});
   dialog.addEventListener('keydown',event=>{if(event.key==='ArrowLeft'||event.key==='ArrowRight'){event.preventDefault();nextBook(event.key==='ArrowLeft'?-1:1);}});
-  const full='Welcome to my library';
-  if(!reducedMotion.matches){let length=0;$('typed-title').textContent='';const timer=setInterval(()=>{$('typed-title').textContent=full.slice(0,++length);if(length>=full.length)clearInterval(timer);},95);}
   filter();
 })();
